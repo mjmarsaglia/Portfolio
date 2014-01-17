@@ -1,0 +1,75 @@
+body {
+  font-family: "PT Sans"
+}
+#header {
+  background-color: white;
+
+
+ }
+#fullname {
+  float:left;
+  border:5px solid black;
+  margin-bottom:1px;
+  padding:5px;
+  margin-left:15px;
+}
+
+#navigation{
+  float:right;
+  
+}
+#navigation li {
+  display:inline;
+  margin:15px;
+}
+
+a {
+  text-decoration:none;
+  color:black;
+}
+#title {
+  
+  height:15px;
+  margin-top:8px;
+  margin-bottom:15px;
+  margin-left:20px;
+  font-size:15px;
+
+  }
+#current {
+  list-style:none;
+}
+#current li {
+  display:inline;
+  margin-right:5px;
+  margin-left:-25px;
+}
+#work {
+margin-left:15px;
+margin-right:15px;
+padding:10px;
+background-color:white;
+
+  }
+#middle-header {
+  text-align:center;
+}
+#Connect {
+  background-color:#B2C7D5;
+  margin-left:15px;
+  margin-right:15px
+  padding:10px;
+}
+#connect-header  {
+  text-align:center;
+}
+#connect-paragraph {
+ text-align:center; 
+}
+#footer {
+  background-color:#504a46;
+  text-align:center;}
+
+#copyright {
+  color:white;
+}
